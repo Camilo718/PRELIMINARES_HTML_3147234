@@ -1,0 +1,26 @@
+/*PUNTO 1*/
+aside h3, h2 {
+    font-size: 29px;
+    color: teal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/*PUNTO 2*/
+nav > a, footer > a{
+    color: firebrick;
+    text-decoration: none;
+}
+/*PUNTO 3*/
+footer a {
+    font-size: 20;
+    font-weight: bold;
+    color: rgb(138, 191, 86);
+}
+/*punto 4*/
+h2 + p {
+    color: gold;
+}
+/*punto 5*/
+aside > p {
+    color: indigo;
+}
+
